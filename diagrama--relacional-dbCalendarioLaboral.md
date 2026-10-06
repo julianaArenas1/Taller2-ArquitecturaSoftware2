@@ -12,5 +12,5 @@ erDiagram
         string Descripcion
     }
 
-    TIPO ||--o{ CALENDARIO : asigna
+    TIPO ||--o{ CALENDARIO : clasifica
 ```
